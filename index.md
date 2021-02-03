@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## LIZHAO LIN
 
-You can use the [editor on GitHub](https://github.com/DazhaoLin/lizhaolin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page :p
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm gonna make an amazhing portfolio.
+
+Feel free to contribute your ideas
 
 ### Markdown
 
